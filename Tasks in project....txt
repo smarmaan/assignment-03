@@ -1,0 +1,26 @@
+1. Mobile responsive 100% done.... ( according to <= 575px)  ********* DONE ********
+
+2. Menu collapses, while the site is responsive on mobile browser...  ********* DONE ********
+
+3. Modal section done.. by clicking free consultation.... ********* DONE ********
+
+4. Four Questions...	 ********* DONE ********
+
+		a. what is the difference between flexbox and grid....
+
+		b. what is the purpose of media query....
+
+		c. what is CSS box model and how does it works....
+
+		d. what is a semantic tag........
+
+
+5. meaningful commit at least 6		 ********* DONE ********
+
+7. add one meaningful section		 ********* DONE ********
+
+8. have a clean code on project file...		 ********* DONE ********
+
+9. must use a CSS Framework in this project...		********* DONE ********
+
+10. Form section added..... ********* DONE ********

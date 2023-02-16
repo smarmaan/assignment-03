@@ -1,0 +1,28 @@
+body {
+    font-size: 16px;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+h1,
+h2,
+h4 {
+    font-family: 'EB Garamond', serif;
+    color: #414040;
+}
+
+h5 {
+    font-family: 'EB Garamond', serif;
+}
+
+p,
+a {
+    color: #707070;
+}
+
+.icon{
+    color: #B68C5A;
+    
+
+}
